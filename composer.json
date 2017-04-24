@@ -1,0 +1,19 @@
+{
+    "name": "software-design-pattern-dictionary",
+    "description": "Dictionary of Software Design Patterns",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Sergio Susa",
+            "email": "sergio@sergiosusa.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pattern\\": "src/"
+        }
+    }
+}
