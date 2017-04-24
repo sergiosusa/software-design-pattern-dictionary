@@ -1,4 +1,5 @@
-#Strategy Pattern
+Strategy Pattern
+================
 
 ![uml](diagram.png)
 
